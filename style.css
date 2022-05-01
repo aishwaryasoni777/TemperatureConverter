@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(187, 223, 248);
+    display: grid;
+    place-items: center;
+
+}
+form{
+    background-color:#2791af;
+    padding:50px;
+    margin:50px;
+    line-height:3;
+    font-size:25px;
+    
+}
+h4{
+    text-align:center;
+    font-size:50px;
+}
+button{
+    background-color:#3268af;
+    border-color: black;
+       border-radius:4px;
+       font-size:20px;
+   }
+   button:hover{
+    background-color:#2791af;
+ }
